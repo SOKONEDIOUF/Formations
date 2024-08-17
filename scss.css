@@ -1,0 +1,150 @@
+.icone
+{
+    list-style-type:none ;
+    display: flex;
+    position: absolute;
+    right: 70px;
+    
+}
+body
+{
+    min-width: 900px;
+}
+.m1
+{
+    display: flex;
+    background-color:  #2196f3;
+    margin-bottom: 7%;
+   
+}
+li{
+    margin-left: 15px;
+}
+a
+{
+    border: 1px solid #fff;
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 3px;
+    color: rgb(171, 191, 172);
+}
+.bout
+{
+    color: #fff;
+    margin: 15px;
+    font-weight: 700;
+    font-size: 20px;
+    
+
+}
+#ban
+{
+    height: 450PX;;
+    width: 100%;
+    background-image: url(siw.jpeg);
+    background-size:   cover;
+    background-repeat: no-repeat;
+
+}
+.bb
+{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    color:white;
+    font-weight: 900;
+    font-size: 40PX;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.imm
+{
+   
+    border-radius: 200PX;
+    margin-left: 9px;
+    
+}
+.ime
+{
+    float: right;
+}
+.se
+{
+    margin: 25px;
+}
+.table_1
+{
+    border-collapse: collapse;
+    width: 70%;
+}
+td,th
+{
+    text-align: center;
+    border: 1px solid;
+}
+#w
+{
+    
+    
+  width: auto;  
+   
+    
+}
+td img
+{
+ width: 100%;
+ height: 100px;
+}
+.k
+{ 
+    float: right;
+    height: 100%;
+}
+input
+{
+    width: 90%;
+    margin: 15px;
+    padding: 10px;
+    border: none;
+}
+label
+{
+    margin: 15px;
+    color: #fff;
+}
+form
+{
+    background-color: #35c672;
+    margin: 30px;
+    margin-top: auto;
+    width: 50%;
+    position: absolute;
+    right: 250px;
+    
+}
+.envoyer
+{
+    margin-left: 270px;
+    border: 1px solid rgb(97, 230, 8);;
+    border-radius: 40%;
+    margin-bottom: 10px;
+    padding: 15px;
+    color: #fff;
+    background-color: rgb(97, 230, 8);
+}
+.envoyer:hover
+{
+    background-color: aqua;
+}
+.XX
+{
+    width: 250PX;
+    height: 150px;
+    margin: 12px;
+    border: 1px dotted white; 
+    padding: 15PX;
+
+   
+
+}
